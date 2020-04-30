@@ -18,7 +18,7 @@ On first usage, you will have to provide your funimation credentials. You will n
 Please be patient with the download. This is not yet multiprocessed.
 
 ## TODO:
-[ ] proxy support
-[ ] automatic mkv conversion using ffmpeg
-[ ] automatic sub muxing
-[ ] future integration with crunchydl for automated duals
+- [ ] proxy support
+- [ ] automatic mkv conversion using ffmpeg
+- [ ] automatic sub muxing
+- [ ] future integration with crunchydl for automated duals
